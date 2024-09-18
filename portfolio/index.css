@@ -1,0 +1,33 @@
+.cv {
+    display: flex;
+    justify-content: space-between;
+}
+
+.content {
+    padding: 20px;
+    background-color: aquamarine;
+
+}
+
+.button {
+    background-color: rgb(255, 208, 0);
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+    text-decoration: none;
+    border-radius: 25px;
+    color: black;
+    text-align: center;
+}
+
+.education {
+    background-color: aquamarine;
+    padding: 15px;
+}
+
+.contact {
+    background-color: aquamarine;
+    text-align: center;
+    padding: 15px;
+    font-size: larger;
+}
